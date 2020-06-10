@@ -1,4 +1,4 @@
-# _Epicodus Track Suggester_
+# _Pig Latin Translator_
 
 #### _Pig Latin, 6.10.2020_
 
